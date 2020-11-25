@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>图片识别服务</title>
+    <style>
+        .cover{
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            display: none;
+            transition: all 0.1s ease;
+            background: rgba(255,255,255,0.5);
+            align-items: center;
+            justify-content: center;
+        }
+        .cover img{
+            width: 105px;
+            height: 104px;
+        }
+    </style>
+</head>
+<body>
+    <h1>上传图片</h1>
+    <form action="" enctype='multipart/form-data' method='POST' id="form">
+        <input type="file" name="file" style="margin-top:20px;"/>
+        <input type="button" value="上传" class="button-new" style="margin-top:15px;" onclick="formSubmit()"/>
+    </form>
+    <div class="cover" >
+        <img src="./static/loading.gif"/>
+    </div>
+<script>
+    function formSubmit(){
+        //显示遮罩层
+        document.querySelector('.cover').style.display = 'flex';
+        //document.querySelector('.cover').style.display = 'none';
+        document.querySelector('#form').submit();
+    }
+</script>
+</body>
+</html>
