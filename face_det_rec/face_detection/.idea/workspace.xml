@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a5b3feac-4c64-48fb-bab1-a8644e5a377a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/1-Adaboost算法.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/1-Adaboost算法.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2-Adaboost人脸检测.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2-Adaboost人脸检测.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3-MTCNN人脸检测---训练数据处理.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/3-MTCNN人脸检测---训练数据处理.ipynb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\python_code\yinqingjihua_AI\老师演示\yinqing_plan\face_det_rec\face_detection\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="JupyterTrust" id="27733b89-f99a-4bcc-bba2-c3d1c99099a2">
+    <option name="files">
+      <option value="1-Adaboost算法.ipynb" />
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1kfomU9fn9T8qdoUpVJYVH7eGlx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Jupyter" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../face_recognition/face_recognition" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a5b3feac-4c64-48fb-bab1-a8644e5a377a" name="Default Changelist" comment="" />
+      <created>1606101165709</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606101165709</updated>
+      <workItem from="1606101166970" duration="4382000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606102524532">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1606102524532" />
+    <state x="250" y="6" key="CommitChangelistDialog2" timestamp="1606101940839">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="250" y="6" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1606101940839" />
+    <state x="549" y="168" key="FileChooserDialogImpl" timestamp="1606120859626">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1606120859626" />
+    <state width="1493" height="208" key="GridCell.Tab.0.bottom" timestamp="1606102996109">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="208" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1606102996109" />
+    <state width="1493" height="208" key="GridCell.Tab.0.center" timestamp="1606102996109">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="208" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1606102996109" />
+    <state width="1493" height="208" key="GridCell.Tab.0.left" timestamp="1606102996109">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="208" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1606102996109" />
+    <state width="1493" height="208" key="GridCell.Tab.0.right" timestamp="1606102996109">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="208" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1606102996109" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1606102560645">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1606102560645" />
+  </component>
+</project>
